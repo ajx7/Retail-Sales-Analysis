@@ -1,0 +1,11 @@
+pandas
+matplotlib
+seaborn
+plotly
+pycountry
+datetime
+scipy
+numpy
+os
+pathlib
+jupyterlab
