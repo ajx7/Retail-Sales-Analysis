@@ -151,7 +151,7 @@ Wrap-up of project outcomes and business takeaways.
 ---
 
 ## 🔍 Key Insights
-- **Highest sales** observed in **West and East regions**, but **profitability** varies across sub-categories.  
+- **Highest sales** observed in **Central region**, but **profitability** varies across sub-categories.  
 - **Furniture** often shows **high sales but low profit margins** due to high shipping and discounts.  
 - **Technology** drives most of the profit, especially under **Corporate and Home Office segments**.  
 - Sales **peak in Q4 each year**, suggesting strong **seasonal patterns** (likely due to festive or year-end promotions).  
